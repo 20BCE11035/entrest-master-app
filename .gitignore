@@ -1,0 +1,9 @@
+**/*.test
+**/*.prof
+**/*.lock
+**/*.txt
+**/*.log
+**/.env*
+**/bin
+/TODO.md
+**/tmp
